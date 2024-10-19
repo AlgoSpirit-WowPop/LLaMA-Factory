@@ -7,7 +7,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -16,7 +16,10 @@
         ],
         "images":[
             "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTN5G6VzPiaSVqJfEWoEzDXdQS3ShY9ChkDBEF1nqNLJhoJGcnnOWD8icNw.png",
-            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTN9JUeVc1svumetbtldTiaKwo6BbRUq6FSLq0GRj3DPyBaCL1abZbwspQ.jpg"
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTN9JUeVc1svumetbtldTiaKwo6BbRUq6FSLq0GRj3DPyBaCL1abZbwspQ.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNet8J7ia71pb4MBp83jqibchI8enpfu0SOZN5pc1SJncAMSxgAUDVF1wQ.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTN8FdTaqOdPFWfOOMSFLtmuibSIkDoGCKWHpBXqaHUHCkxAg7EMqaNxow.png",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNViaYLGkz3ZyRrrOyaeRTTTJBl9U4OWOWdgMxYYiatZZE0hwqZccPpxhw.jpg"
         ]
     },
     {
@@ -27,7 +30,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -36,7 +39,10 @@
         ],
         "images":[
             "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNhWs6ibpQY0GxxZg4TibvAFvxjGrIiaZyjyceDJUhLicjgOKxictYgNicBhWA.jpg",
-            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNtZrVdXVp3WT6pBSBj6BXafvkM2iasuFQfwtrzAuhKSnJ6zC1LKoEUyw.jpg"
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNtZrVdXVp3WT6pBSBj6BXafvkM2iasuFQfwtrzAuhKSnJ6zC1LKoEUyw.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTN2wqupxA5GrC5A4XFwFda0IFN4hGWbJAO98ZxBEg4VGaNO4HSztLWrg.png",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNZk5Xqy5fZZlpg9whT6piakmR0rSTXF0jgnhTvYKfiaDRglSNjtH6Toqw.png",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNhA4RibYw5AZJzZic1sIPPAcORtW12oia5rvFKlXFHWAkkdy72R7Xvn11g.gif"
         ]
     },
     {
@@ -47,7 +53,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -55,6 +61,9 @@
             }
         ],
         "images":[
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRmuOEhYSDOOia2jQF8XSrX5ddj1rib2aClcT1Ur6bS4RNliazvLt4hXcibA.jpg",
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRVYiaiaQIiaoJDRea2C5pYh9WtLjO7xA8m7jtk7ZFU25uicgmAcT1Qjp1zw.png",
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRfvbsc2GD1JMMgoS7ibhK5tUF30ImnYBG03fL5N8b6GCUpwsbabmQQKg.jpg",
             "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRmuOEhYSDOOia2jQF8XSrX5ddj1rib2aClcT1Ur6bS4RNliazvLt4hXcibA.jpg",
             "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRVYiaiaQIiaoJDRea2C5pYh9WtLjO7xA8m7jtk7ZFU25uicgmAcT1Qjp1zw.png"
         ]
@@ -67,7 +76,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -76,7 +85,33 @@
         ],
         "images":[
             "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRib9AM7RJjBibcdryusGliaB51Qj8UCsGrO56cwFZnoWyfCmcicOORjZmmQ.jpg",
-            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRepOIomt5kyFHrnTUDjklnC6RcPUD5qTftr6h8iaEeYNb76cVBjZpcfQ.jpg"
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRepOIomt5kyFHrnTUDjklnC6RcPUD5qTftr6h8iaEeYNb76cVBjZpcfQ.jpg",
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRrorjicySemESNmJ1ZMyNKKcOnx9J3OmK7yg3iaPEw1pEib4JvAEia0fguw.jpg",
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRuyZ1awZLPISjKkRwMG2zspaVwppfj43meqePJe3IfeIJEmkj9SibibRg.png",
+            "images/L8JjquibdBIn9tiafrgABYFOjK1iaBolIrRRTlb20XA8bds6evOPoicovia2VSG6OYWBvA0I1xJyrgrhFjkDq1W70wg.png"
+        ]
+    },
+    {
+        "conversations":[
+            {
+                "from":"system",
+                "value":"你是一个文化，博物馆、艺术馆的讲解员，请在尊重事实的基础上生动幽默的为大家介绍展品"
+            },
+            {
+                "from":"human",
+                "value":"<image><image><image><image><image>"
+            },
+            {
+                "from":"gpt",
+                "value":"职场乐学丨“安徽阜阳界首彩陶展”导览+“陶艺手作体验”——10月会员专属日活动\n秋风拂面凉意近正是游乐好光景看看小苏苏这次要带着会员们打卡何种职场体验呢~哇~~原来是要化身陶艺师啊~~“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人导览+“陶艺手作体验”——苏州博物馆10月会员专属日活动活动时间2024年10月20日 周日 上午10:10--11:30活动地点苏州博物馆（本馆）忠王府楠木厅苏州博物馆本馆一层儿童体验中心集合时间10月20日 周日 上午 10:00集合地点苏州博物馆（本馆）太平天国忠王府中路庭院活动费用免费活动人数10人温馨提示1、请至苏博会员小程序预约报名，家庭会员携亲友需成年人和未成年人同时报名。2、活动当天请苏博会员携带身份证件原件，通过闸机识别后入馆。3.活动报名前请慎重考虑，连续两次或累计四次（90天内）预约活动但未签到，将触发限制预约机制。活动一：“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人导览界首彩陶，又名三彩刻花陶，最早发现于唐代民窑遗址，制作工艺上秉承了“唐三彩”遗风，吸收了中原剪纸、木版年画的艺术风格，源远流长，自成一家。本次“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”由苏州博物馆联合阜阳市博物馆、阜阳市非物质文化遗产保护中心、界首市博物馆和界首市文化馆共同举办，将浓郁的民间风带到了苏州博物馆里。展览分为“陶韵薪传”、“陶艺工琢”和“陶思渊长”三部分，共展出界首彩陶陶瓶、陶罐和陶塑等展品55件（套），包括代表性的早期器物与现当代创作，讲述了界首彩陶的历史脉络、当代发展、传承情况、工艺流程与创新存续。不仅表现非遗技艺的精巧致细和传承人们的坚守执着，还向观众展示皖北民众的生活面貌，彰显民间文化的旺盛生命力。这次就和小苏苏一起走进苏州博物馆，在阜阳界首彩陶作品中体会中国传统非遗文化的魅力吧~活动二：陶艺手作体验活动鉴赏完精巧致细的界首彩陶，何不亲自动手体验一下彩陶的制作过程。本次活动，苏州博物馆特别邀请了3位传承人现场指导观众体验揉泥、拉坯、刻画等彩陶制作过程。与此同时，展厅还将设置彩陶制作展示区，让观众现场观摩界首彩陶的制作流程，感受其独特的艺术魅力和文化内涵。拉坯的过程需要在陶轮上进行，匠人用双手的巧力和陶轮的匀速旋转，将泥坯拉制成千变万化的造型。刻画则是在半干的坯体表面刻画出丰富多样的花鸟鱼虫图案，或是传统戏曲场景。用铁笔刻画出花纹，下笔刚劲有力、线条流畅，这样刻画出的图案才会生动活泼。快来和小苏苏一起“随心所欲”的玩泥巴吧！活动流程：10：10—10：30  “向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人导览10: 30— 11: 30  陶艺手作体验活动传承人展示拉坯过程，轮流体验拉坯传承人展示刻画技巧，体验刻画并尝试完成一件刻画彩陶作品活动结束，刻画彩陶作品由传承人带回，烧制完成后通知领取各自的作品活动老师介绍范文琪毕业于南京大学历史学院，中国史专业。现任职于苏州博物馆工艺民俗部。“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人。卢莉华卢莉华，1966年出生于安徽阜阳界首市陶艺世家，父亲为中国工艺美术大师、界首彩陶界泰斗卢山义。安徽省高级工艺美术师，国家级非遗项目（界首彩陶烧制技艺）安徽省级代表性传承人，安徽省美术家协会会员，安徽省工艺美术学会会员，中国工艺美术学会会员。1982年在界首市工艺陶瓷厂从事彩陶釉下刻画工作。2008年在改制后的原厂内成立了界首市卢莉华彩陶艺术有限公司。改革创新了彩陶釉下刻画技艺，丰富拓展了彩陶釉下刻画的形式和内容，提升了界首彩陶艺术品味。作品多次获国家级、省级大奖并被中国工艺美术馆收藏。2007年《一品徽韵》获全国文化纪念品金奖。2008年《刀马人将军瓶》获中国工艺美术精品展金奖。2011年《玲珑如意罐》获中国民间工艺美术精品展金奖。2014年《敦煌画筒》获安徽省传统工艺美术精品展金奖。2015年《敦煌飞天纹赏瓶》获安徽省传统工艺美术精品展金奖。曹振亚曹振亚，安徽省界首市人，1980年10月出生。现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、安徽省工艺美术名人、安徽省传统工艺美术保护和发展促进会理事、安徽省陶瓷艺术名人、安徽省工艺美术学会会员、安徽省技术能手、安徽省美术家协会会员。1996年到韩美林工作室工作学习，在学习期间跟随韩美林到国内外各地学习考察，并掌握多种技艺如：拉坯、锻造、雕塑等。1998年在韩美林艺术展中，其作品铁艺、陶瓷、雕塑在北京中国美术馆展出。2006年为振兴界首彩陶事业，返回家乡跟随外公卢山义学习界首彩陶烧制技艺。在此期间到全国各大艺术院校学习、进修，并熟练掌握了界首彩陶烧制技艺全部过程。所制作的彩陶美观大方、新颖别致，作品多次获奖，被专家收藏。2010年《玲珑如意坛》获中国工艺美术精品展金奖。2012年《三彩刻画陶鱼》获中国工艺美术精品展金奖。2014年《牡丹瓶》获中国民间工艺美术精品展山花奖金奖。2016年《佛宝平安转运瓶》获安徽省传统工艺美术精品展金奖。2017年《如意瓶》获安徽省传统工艺美术精品展金奖。2020年《观音受经图》获安徽省陶瓷工艺美术精品展金奖。2023年《富贵吉祥尊》获安徽省传统工艺美术精品展金奖。卢文龙卢文龙，安徽省界首市人，1983年出生于陶艺世家，现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、中国工艺美术学会会员、安徽省民间文艺家协会会员、安徽省促进会会员、安徽省工艺美术师。自幼跟随爷爷卢山义大师学习界首彩陶釉下刻画技艺。爷爷仙逝后，跟随姑姑卢莉华学习传承界首彩陶刻画技艺。2003年，从事界首彩陶制作，能够全面掌握界首彩陶烧制技艺，所创作的界首彩陶工艺品受到国内专家学者赞誉，作品被广大彩陶爱好者收藏。代表作品《观音瓶》等多次在国内大赛中获奖。2008年，师从安徽省雕塑家闫玉敏教授学习绘画、设计等雕塑艺术技艺。2016年，参与文化部主办的“中国非物质文化遗产传承人群研修研习培训计划”，赴中国美术学院进修。9月活动回顾会员专属活动回顾9月17日，苏州博物馆会员在中国昆曲博物馆举办了9月份的会员专属活动。活动伊始，会员们在专业讲解员的引导下，参观了昆曲博物馆。昆曲，作为世界非物质文化遗产，其发源地苏州不仅是昆曲艺术的展示窗口，更是其传承与发扬的重要基地。期间会员们了解了昆曲的发展历程，并对昆曲相关的演出服饰和道具等进行了细致的观赏。工作人员阐述了每件道具的用途，以及它们在昆曲表演中的重要性，使大家领略昆曲戏服的色彩之斑斓、工艺之精湛，承载了古人对艺术的热爱与追求。随后，会员们欣赏了昆曲表演。昆曲老师身着传统服饰，展示了昆曲特有的身段与步法。在老师示范之后，会员们也穿上昆曲服饰，亲身体验昆曲的艺术魅力。大家跟随老师的指导模仿昆曲演员的动作，学习昆曲特有的步法与手势。尽管作为初学者，会员们的动作尚显生疏，但每位参与者都展现出了极高的热情与兴趣，逐步掌握昆曲的基本要领。活动结束时，会员们分享了自己的体验与感受。通过这次活动，大家对昆曲有了更深入的理解，同时也激发了对传统文化的热爱，更在潜移默化中领悟到了传统文化的深邃与美好。希望未来能有更多这样的活动可以接触到中国的传统文化。会员专场活动回顾9.11日，小苏苏带领苏博会员们开展了“西馆吴越青铜器”专题导览，由我们的资深保管员姚老师为大家深入讲解。作为青铜器的研究者，姚老师为各位会员带来了许多平常听不到的内容，比如吴王余眜剑七十五字登顶剑类兵器铭文数量之最，青铜剑身上饰有菱形暗格纹。隔着展柜，剑身、剑格的鎏金，剑首镶嵌有玉石的残痕，还有铭文，都清晰可见，无声诉说着它过去的英勇。9.25日，在苏州博物馆本馆开展了九月的第二场会员专场活动，在静谧的夜色中独享苏博建筑的独特魅力，感受贝聿铭大师融汇传统与现代的贝氏建筑美学。会员们在老师的带领下参观了紫藤园、中央大厅、西廊、莲花池及”等展厅，实地体会几何线条与空间结构，全面立体地感受苏博的建筑之美。之后又参观了太平天国忠王府，回顾了忠王李秀成的一生，在客观认识太平天国运动这一历史事件的同时，也欣赏了忠王府彩绘的高超艺术成就。扫码前往会员小程序报名供稿丨事业发展部排版丨张菁审核丨张帆 陆军终审丨馆部"
+            }
+        ],
+        "images":[
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNdfA070H1njJVIh8WvVtfT93Zic1w6v5IicR5r6eosico8ZTIniaE3pLhqQ.png",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNMACdZp0yzsicZ7AWbf1fYt9iamU1ETYnljQiab7CT2JSiaeTZDkp1iaoN4w.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNXwbrpHUwWFDGdVeUSDRjicGVo49Pia3mictmSzKwqPURQC3aqHZcsWNHA.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNLpibSN30wZwBmz1aiaOn2P6xHzWEDlDJTA6x8sAWlUAx6bUmiatiaLrZYg.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNib0NoKO7RIrOzbIATCo23n2pVLR7ZPToba8LiblJn7SU40Wa2qPLibFRw.png"
         ]
     },
     {
@@ -91,7 +126,7 @@
             },
             {
                 "from":"gpt",
-                "value":"职场乐学丨“安徽阜阳界首彩陶展”导览+“陶艺手作体验”——10月会员专属日活动\n秋风拂面凉意近正是游乐好光景看看小苏苏这次要带着会员们打卡何种职场体验呢~哇~~原来是要化身陶艺师啊~~“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人导览+“陶艺手作体验”——苏州博物馆10月会员专属日活动活动时间2024年10月20日 周日 上午10:10--11:30活动地点苏州博物馆（本馆）忠王府楠木厅苏州博物馆本馆一层儿童体验中心集合时间10月20日 周日 上午 10:00集合地点苏州博物馆（本馆）太平天国忠王府中路庭院活动费用免费活动人数10人温馨提示1、请至苏博会员小程序预约报名，家庭会员携亲友需成年人和未成年人同时报名。2、活动当天请苏博会员携带身份证件原件，通过闸机识别后入馆。3.活动报名前请慎重考虑，连续两次或累计四次（90天内）预约活动但未签到，将触发限制预约机制。活动一：“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人导览界首彩陶，又名三彩刻花陶，最早发现于唐代民窑遗址，制作工艺上秉承了“唐三彩”遗风，吸收了中原剪纸、木版年画的艺术风格，源远流长，自成一家。本次“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”由苏州博物馆联合阜阳市博物馆、阜阳市非物质文化遗产保护中心、界首市博物馆和界首市文化馆共同举办，将浓郁的民间风带到了苏州博物馆里。展览分为“陶韵薪传”、“陶艺工琢”和“陶思渊长”三部分，共展出界首彩陶陶瓶、陶罐和陶塑等展品55件（套），包括代表性的早期器物与现当代创作，讲述了界首彩陶的历史脉络、当代发展、传承情况、工艺流程与创新存续。不仅表现非遗技艺的精巧致细和传承人们的坚守执着，还向观众展示皖北民众的生活面貌，彰显民间文化的旺盛生命力。这次就和小苏苏一起走进苏州博物馆，在阜阳界首彩陶作品中体会中国传统非遗文化的魅力吧~活动二：陶艺手作体验活动鉴赏完精巧致细的界首彩陶，何不亲自动手体验一下彩陶的制作过程。本次活动，苏州博物馆特别邀请了3位传承人现场指导观众体验揉泥、拉坯、刻画等彩陶制作过程。与此同时，展厅还将设置彩陶制作展示区，让观众现场观摩界首彩陶的制作流程，感受其独特的艺术魅力和文化内涵。拉坯的过程需要在陶轮上进行，匠人用双手的巧力和陶轮的匀速旋转，将泥坯拉制成千变万化的造型。刻画则是在半干的坯体表面刻画出丰富多样的花鸟鱼虫图案，或是传统戏曲场景。用铁笔刻画出花纹，下笔刚劲有力、线条流畅，这样刻画出的图案才会生动活泼。快来和小苏苏一起“随心所欲”的玩泥巴吧！活动流程：10：10—10：30  “向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人导览10: 30— 11: 30  陶艺手作体验活动传承人展示拉坯过程，轮流体验拉坯传承人展示刻画技巧，体验刻画并尝试完成一件刻画彩陶作品活动结束，刻画彩陶作品由传承人带回，烧制完成后通知领取各自的作品活动老师介绍范文琪毕业于南京大学历史学院，中国史专业。现任职于苏州博物馆工艺民俗部。“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”策展人。卢莉华卢莉华，1966年出生于安徽阜阳界首市陶艺世家，父亲为中国工艺美术大师、界首彩陶界泰斗卢山义。安徽省高级工艺美术师，国家级非遗项目（界首彩陶烧制技艺）安徽省级代表性传承人，安徽省美术家协会会员，安徽省工艺美术学会会员，中国工艺美术学会会员。1982年在界首市工艺陶瓷厂从事彩陶釉下刻画工作。2008年在改制后的原厂内成立了界首市卢莉华彩陶艺术有限公司。改革创新了彩陶釉下刻画技艺，丰富拓展了彩陶釉下刻画的形式和内容，提升了界首彩陶艺术品味。作品多次获国家级、省级大奖并被中国工艺美术馆收藏。2007年《一品徽韵》获全国文化纪念品金奖。2008年《刀马人将军瓶》获中国工艺美术精品展金奖。2011年《玲珑如意罐》获中国民间工艺美术精品展金奖。2014年《敦煌画筒》获安徽省传统工艺美术精品展金奖。2015年《敦煌飞天纹赏瓶》获安徽省传统工艺美术精品展金奖。曹振亚曹振亚，安徽省界首市人，1980年10月出生。现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、安徽省工艺美术名人、安徽省传统工艺美术保护和发展促进会理事、安徽省陶瓷艺术名人、安徽省工艺美术学会会员、安徽省技术能手、安徽省美术家协会会员。1996年到韩美林工作室工作学习，在学习期间跟随韩美林到国内外各地学习考察，并掌握多种技艺如：拉坯、锻造、雕塑等。1998年在韩美林艺术展中，其作品铁艺、陶瓷、雕塑在北京中国美术馆展出。2006年为振兴界首彩陶事业，返回家乡跟随外公卢山义学习界首彩陶烧制技艺。在此期间到全国各大艺术院校学习、进修，并熟练掌握了界首彩陶烧制技艺全部过程。所制作的彩陶美观大方、新颖别致，作品多次获奖，被专家收藏。2010年《玲珑如意坛》获中国工艺美术精品展金奖。2012年《三彩刻画陶鱼》获中国工艺美术精品展金奖。2014年《牡丹瓶》获中国民间工艺美术精品展山花奖金奖。2016年《佛宝平安转运瓶》获安徽省传统工艺美术精品展金奖。2017年《如意瓶》获安徽省传统工艺美术精品展金奖。2020年《观音受经图》获安徽省陶瓷工艺美术精品展金奖。2023年《富贵吉祥尊》获安徽省传统工艺美术精品展金奖。卢文龙卢文龙，安徽省界首市人，1983年出生于陶艺世家，现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、中国工艺美术学会会员、安徽省民间文艺家协会会员、安徽省促进会会员、安徽省工艺美术师。自幼跟随爷爷卢山义大师学习界首彩陶釉下刻画技艺。爷爷仙逝后，跟随姑姑卢莉华学习传承界首彩陶刻画技艺。2003年，从事界首彩陶制作，能够全面掌握界首彩陶烧制技艺，所创作的界首彩陶工艺品受到国内专家学者赞誉，作品被广大彩陶爱好者收藏。代表作品《观音瓶》等多次在国内大赛中获奖。2008年，师从安徽省雕塑家闫玉敏教授学习绘画、设计等雕塑艺术技艺。2016年，参与文化部主办的“中国非物质文化遗产传承人群研修研习培训计划”，赴中国美术学院进修。9月活动回顾会员专属活动回顾9月17日，苏州博物馆会员在中国昆曲博物馆举办了9月份的会员专属活动。活动伊始，会员们在专业讲解员的引导下，参观了昆曲博物馆。昆曲，作为世界非物质文化遗产，其发源地苏州不仅是昆曲艺术的展示窗口，更是其传承与发扬的重要基地。期间会员们了解了昆曲的发展历程，并对昆曲相关的演出服饰和道具等进行了细致的观赏。工作人员阐述了每件道具的用途，以及它们在昆曲表演中的重要性，使大家领略昆曲戏服的色彩之斑斓、工艺之精湛，承载了古人对艺术的热爱与追求。随后，会员们欣赏了昆曲表演。昆曲老师身着传统服饰，展示了昆曲特有的身段与步法。在老师示范之后，会员们也穿上昆曲服饰，亲身体验昆曲的艺术魅力。大家跟随老师的指导模仿昆曲演员的动作，学习昆曲特有的步法与手势。尽管作为初学者，会员们的动作尚显生疏，但每位参与者都展现出了极高的热情与兴趣，逐步掌握昆曲的基本要领。活动结束时，会员们分享了自己的体验与感受。通过这次活动，大家对昆曲有了更深入的理解，同时也激发了对传统文化的热爱，更在潜移默化中领悟到了传统文化的深邃与美好。希望未来能有更多这样的活动可以接触到中国的传统文化。会员专场活动回顾9.11日，小苏苏带领苏博会员们开展了“西馆吴越青铜器”专题导览，由我们的资深保管员姚老师为大家深入讲解。作为青铜器的研究者，姚老师为各位会员带来了许多平常听不到的内容，比如吴王余眜剑七十五字登顶剑类兵器铭文数量之最，青铜剑身上饰有菱形暗格纹。隔着展柜，剑身、剑格的鎏金，剑首镶嵌有玉石的残痕，还有铭文，都清晰可见，无声诉说着它过去的英勇。9.25日，在苏州博物馆本馆开展了九月的第二场会员专场活动，在静谧的夜色中独享苏博建筑的独特魅力，感受贝聿铭大师融汇传统与现代的贝氏建筑美学。会员们在老师的带领下参观了紫藤园、中央大厅、西廊、莲花池及”等展厅，实地体会几何线条与空间结构，全面立体地感受苏博的建筑之美。之后又参观了太平天国忠王府，回顾了忠王李秀成的一生，在客观认识太平天国运动这一历史事件的同时，也欣赏了忠王府彩绘的高超艺术成就。扫码前往会员小程序报名供稿丨事业发展部排版丨张菁审核丨张帆 陆军终审丨馆部"
+                "value":"匠心传承，彩陶风华——界首彩陶制作体验活动\n为配合“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”，让观众可以更加直观地了解界首彩陶，苏州博物馆特别举办“匠心传承，彩陶风华” ——界首彩陶制作体验活动，本次活动旨在通过互动体验的形式，让观众近距离感受界首彩陶的独特魅力，深入了解这一非物质文化遗产的历史渊源和精湛技艺，从而增强文化自信心和民族自豪感。此次，苏州博物馆特别邀请了3位传承人现场指导观众体验揉泥、拉坯、刻画等彩陶制作过程。与此同时，展厅还将设置彩陶制作展示区，让观众现场观摩界首彩陶的制作流程，感受其独特的艺术魅力和文化内涵。指导老师卢莉华1966年出生于安徽阜阳界首市陶艺世家，父亲为中国工艺美术大师、界首彩陶界泰斗卢山义。安徽省高级工艺美术师，国家级非遗项目（界首彩陶烧制技艺）安徽省级代表性传承人，安徽省美术家协会会员，安徽省工艺美术学会会员，中国工艺美术学会会员。1982年在界首市工艺陶瓷厂从事彩陶釉下刻画工作。2008年在改制后的原厂内成立了界首市卢莉华彩陶艺术有限公司。改革创新了彩陶釉下刻画技艺，丰富拓展了彩陶釉下刻画的形式和内容，提升了界首彩陶艺术品味。作品多次获国家级、省级大奖并被中国工艺美术馆收藏。2007年《一品徽韵》获全国文化纪念品金奖。2008年《刀马人将军瓶》获中国工艺美术精品展金奖。2011年《玲珑如意罐》获中国民间工艺美术精品展金奖。2014年《敦煌画筒》获安徽省传统工艺美术精品展金奖。2015年《敦煌飞天纹赏瓶》获安徽省传统工艺美术精品展金奖。曹振亚安徽省界首市人，1980年10月出生。现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、安徽省工艺美术名人、安徽省传统工艺美术保护和发展促进会理事、安徽省陶瓷艺术名人、安徽省工艺美术学会会员、安徽省技术能手、安徽省美术家协会会员。1996年到韩美林工作室工作学习，在学习期间跟随韩美林到国内外各地学习考察，并掌握多种技艺如：拉坯、锻造、雕塑等。1998年在韩美林艺术展中，其作品铁艺、陶瓷、雕塑在北京中国美术馆展出。2006年为振兴界首彩陶事业，返回家乡跟随外公卢山义学习界首彩陶烧制技艺。在此期间到全国各大艺术院校学习、进修，并熟练掌握了界首彩陶烧制技艺全部过程。所制作的彩陶美观大方、新颖别致，作品多次获奖，被专家收藏。2010年《玲珑如意坛》获中国工艺美术精品展金奖。2012年《三彩刻画陶鱼》获中国工艺美术精品展金奖。2014年《牡丹瓶》获中国民间工艺美术精品展山花奖金奖。2016年《佛宝平安转运瓶》获安徽省传统工艺美术精品展金奖。2017年《如意瓶》获安徽省传统工艺美术精品展金奖。2020年《观音受经图》获安徽省陶瓷工艺美术精品展金奖。2023年《富贵吉祥尊》获安徽省传统工艺美术精品展金奖。卢文龙安徽省界首市人，1983年出生于陶艺世家，现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、中国工艺美术学会会员、安徽省民间文艺家协会会员、安徽省促进会会员、安徽省工艺美术师。自幼跟随爷爷卢山义大师学习界首彩陶釉下刻画技艺。爷爷仙逝后，跟随姑姑卢莉华学习传承界首彩陶刻画技艺。2003年，从事界首彩陶制作，能够全面掌握界首彩陶烧制技艺，所创作的界首彩陶工艺品受到国内专家学者赞誉，作品被广大彩陶爱好者收藏。代表作品《观音瓶》等多次在国内大赛中获奖。2008年，师从安徽省雕塑家闫玉敏教授学习绘画、设计等雕塑艺术技艺。2016年，参与文化部主办的“中国非物质文化遗产传承人群研修研习培训计划”，赴中国美术学院进修。范文琪毕业于南京大学历史学院，中国史专业。现任职于苏州博物馆工艺民俗部, 负责“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”内容策划工作。活动流程1、专家老师带领参观“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”；2、传承人展示拉坯过程，轮流体验拉坯；3、传承人展示刻画技巧，观众体验刻画并尝试完成一件刻画彩陶作品；4、活动结束，刻画彩陶作品由传承人带回，烧制完成后，苏州博物馆将电话通知报名观众领取自己的作品。活动时间10月19日 周六：15:00——16:2010月20日 周日：14:00——15:20（教师专场）报名时间10月11日18:00—10月18日12:00活动地点苏州博物馆儿童体验中心活动对象及人数10周岁以上青少年及成人，10人/场，50元/人咨询电话0512-67546065（周一至周五9:00-17:00，殷老师）0512-67576013 (周二至周日 9:00-17:00，程老师)报名须知教师专场活动对象为苏州市在职教师，需要上传在职教师工作证等相关证件以便核验。收集的信息仅限于本次预约使用。报名者请在报名时间内扫文末二维码报名，填写个人信息并上传在职教师证明（仅限在职教师），如本单位的相关工作证等。如后台审核后不符合报名条件，将会在10月17日前通过短信告知，如信息收集超过10份，扫码收集将终止。*教师专场活动缴费方式为线下缴费，报名成功后，活动当天现场扫码付款。温馨提示收费活动报名以最终缴费情况为准，缴费后视为成功报名。活动报名缴费前请慎重考虑，缴费后因个人原因不能准时参加，请于报名截止前取消预约，超过报名截止时间未取消将不予退款。温馨提示已预约活动的观众本人无需进行入馆预约。请注意活动举办地点，并准时前往参加。▣ 本馆实名入馆到馆观众参观时请在预约时段内走预约入馆通道，须出示预约信息及本人身份证或护照原件(未办理身份证的未成年人须出示户口本)。▣ 西馆入馆签到观众直接于可入馆时间内到馆，经安检后有序入馆，前往活动现场进行签到。如遇馆内观众流量达到瞬时承载量峰值，将缓慢放行或暂停入馆，请听从现场安排，耐心等待。如遇特殊情况，请电话联系苏州博物馆公众教育部（0512-67571595；0512-67571677）。▣ 行李寄存如有大件行李物品，本馆（东北街204号）观众请至正门对面观众服务中心，先寄存，后入馆；西馆（长江路399号）观众请至馆内观众服务中心（正门北侧）寄存。供稿丨公众教育部排版丨张菁审核丨吕健 陆军终审丨馆部"
             }
         ],
         "images":[]
@@ -104,27 +139,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
-            },
-            {
-                "from":"gpt",
-                "value":"匠心传承，彩陶风华——界首彩陶制作体验活动\n为配合“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”，让观众可以更加直观地了解界首彩陶，苏州博物馆特别举办“匠心传承，彩陶风华” ——界首彩陶制作体验活动，本次活动旨在通过互动体验的形式，让观众近距离感受界首彩陶的独特魅力，深入了解这一非物质文化遗产的历史渊源和精湛技艺，从而增强文化自信心和民族自豪感。此次，苏州博物馆特别邀请了3位传承人现场指导观众体验揉泥、拉坯、刻画等彩陶制作过程。与此同时，展厅还将设置彩陶制作展示区，让观众现场观摩界首彩陶的制作流程，感受其独特的艺术魅力和文化内涵。指导老师卢莉华1966年出生于安徽阜阳界首市陶艺世家，父亲为中国工艺美术大师、界首彩陶界泰斗卢山义。安徽省高级工艺美术师，国家级非遗项目（界首彩陶烧制技艺）安徽省级代表性传承人，安徽省美术家协会会员，安徽省工艺美术学会会员，中国工艺美术学会会员。1982年在界首市工艺陶瓷厂从事彩陶釉下刻画工作。2008年在改制后的原厂内成立了界首市卢莉华彩陶艺术有限公司。改革创新了彩陶釉下刻画技艺，丰富拓展了彩陶釉下刻画的形式和内容，提升了界首彩陶艺术品味。作品多次获国家级、省级大奖并被中国工艺美术馆收藏。2007年《一品徽韵》获全国文化纪念品金奖。2008年《刀马人将军瓶》获中国工艺美术精品展金奖。2011年《玲珑如意罐》获中国民间工艺美术精品展金奖。2014年《敦煌画筒》获安徽省传统工艺美术精品展金奖。2015年《敦煌飞天纹赏瓶》获安徽省传统工艺美术精品展金奖。曹振亚安徽省界首市人，1980年10月出生。现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、安徽省工艺美术名人、安徽省传统工艺美术保护和发展促进会理事、安徽省陶瓷艺术名人、安徽省工艺美术学会会员、安徽省技术能手、安徽省美术家协会会员。1996年到韩美林工作室工作学习，在学习期间跟随韩美林到国内外各地学习考察，并掌握多种技艺如：拉坯、锻造、雕塑等。1998年在韩美林艺术展中，其作品铁艺、陶瓷、雕塑在北京中国美术馆展出。2006年为振兴界首彩陶事业，返回家乡跟随外公卢山义学习界首彩陶烧制技艺。在此期间到全国各大艺术院校学习、进修，并熟练掌握了界首彩陶烧制技艺全部过程。所制作的彩陶美观大方、新颖别致，作品多次获奖，被专家收藏。2010年《玲珑如意坛》获中国工艺美术精品展金奖。2012年《三彩刻画陶鱼》获中国工艺美术精品展金奖。2014年《牡丹瓶》获中国民间工艺美术精品展山花奖金奖。2016年《佛宝平安转运瓶》获安徽省传统工艺美术精品展金奖。2017年《如意瓶》获安徽省传统工艺美术精品展金奖。2020年《观音受经图》获安徽省陶瓷工艺美术精品展金奖。2023年《富贵吉祥尊》获安徽省传统工艺美术精品展金奖。卢文龙安徽省界首市人，1983年出生于陶艺世家，现为国家级非遗项目（界首彩陶烧制技艺）阜阳市级代表性传承人、中国工艺美术学会会员、安徽省民间文艺家协会会员、安徽省促进会会员、安徽省工艺美术师。自幼跟随爷爷卢山义大师学习界首彩陶釉下刻画技艺。爷爷仙逝后，跟随姑姑卢莉华学习传承界首彩陶刻画技艺。2003年，从事界首彩陶制作，能够全面掌握界首彩陶烧制技艺，所创作的界首彩陶工艺品受到国内专家学者赞誉，作品被广大彩陶爱好者收藏。代表作品《观音瓶》等多次在国内大赛中获奖。2008年，师从安徽省雕塑家闫玉敏教授学习绘画、设计等雕塑艺术技艺。2016年，参与文化部主办的“中国非物质文化遗产传承人群研修研习培训计划”，赴中国美术学院进修。范文琪毕业于南京大学历史学院，中国史专业。现任职于苏州博物馆工艺民俗部, 负责“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”内容策划工作。活动流程1、专家老师带领参观“向美而生 长三角非遗系列——安徽阜阳界首彩陶展”；2、传承人展示拉坯过程，轮流体验拉坯；3、传承人展示刻画技巧，观众体验刻画并尝试完成一件刻画彩陶作品；4、活动结束，刻画彩陶作品由传承人带回，烧制完成后，苏州博物馆将电话通知报名观众领取自己的作品。活动时间10月19日 周六：15:00——16:2010月20日 周日：14:00——15:20（教师专场）报名时间10月11日18:00—10月18日12:00活动地点苏州博物馆儿童体验中心活动对象及人数10周岁以上青少年及成人，10人/场，50元/人咨询电话0512-67546065（周一至周五9:00-17:00，殷老师）0512-67576013 (周二至周日 9:00-17:00，程老师)报名须知教师专场活动对象为苏州市在职教师，需要上传在职教师工作证等相关证件以便核验。收集的信息仅限于本次预约使用。报名者请在报名时间内扫文末二维码报名，填写个人信息并上传在职教师证明（仅限在职教师），如本单位的相关工作证等。如后台审核后不符合报名条件，将会在10月17日前通过短信告知，如信息收集超过10份，扫码收集将终止。*教师专场活动缴费方式为线下缴费，报名成功后，活动当天现场扫码付款。温馨提示收费活动报名以最终缴费情况为准，缴费后视为成功报名。活动报名缴费前请慎重考虑，缴费后因个人原因不能准时参加，请于报名截止前取消预约，超过报名截止时间未取消将不予退款。温馨提示已预约活动的观众本人无需进行入馆预约。请注意活动举办地点，并准时前往参加。▣ 本馆实名入馆到馆观众参观时请在预约时段内走预约入馆通道，须出示预约信息及本人身份证或护照原件(未办理身份证的未成年人须出示户口本)。▣ 西馆入馆签到观众直接于可入馆时间内到馆，经安检后有序入馆，前往活动现场进行签到。如遇馆内观众流量达到瞬时承载量峰值，将缓慢放行或暂停入馆，请听从现场安排，耐心等待。如遇特殊情况，请电话联系苏州博物馆公众教育部（0512-67571595；0512-67571677）。▣ 行李寄存如有大件行李物品，本馆（东北街204号）观众请至正门对面观众服务中心，先寄存，后入馆；西馆（长江路399号）观众请至馆内观众服务中心（正门北侧）寄存。供稿丨公众教育部排版丨张菁审核丨吕健 陆军终审丨馆部"
-            }
-        ],
-        "images":[
-            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNd0wlyTZb8oR38npv1RA3LSnsVlEDjAyRZlozESKImZQHx7aCtQapgg.png",
-            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNk6BnWMVr8LwDFepMJKX39K4nYSNFm1bT50rxVZAC3enEJjlqKoxMgQ.jpg"
-        ]
-    },
-    {
-        "conversations":[
-            {
-                "from":"system",
-                "value":"你是一个文化，博物馆、艺术馆的讲解员，请在尊重事实的基础上生动幽默的为大家介绍展品"
-            },
-            {
-                "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -133,7 +148,10 @@
         ],
         "images":[
             "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNV7lOvlHQIiaWQo5opdUj1xBbPTqSE6R38sa97KoGw30Y57auXOrDWkQ.png",
-            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNIhGp2eFz4CHqgZdTeZ6ZEw7rUaP65ShmMJbS3KbOPRTIu4l1ZlqCKg.jpg"
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNIhGp2eFz4CHqgZdTeZ6ZEw7rUaP65ShmMJbS3KbOPRTIu4l1ZlqCKg.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNPvJ0605Nia2Gxjks38ohdUs9icRibGDia0FXEvdeOEhFjfpskeMnic9y6Gg.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTN7GVRVeFZjOZSE94nbo3txawRpyAWdynHLUOSPPJ58Q3ZSCuLIFZhoQ.jpg",
+            "images/L8JjquibdBIm6sDibKmE3qSiaKnSibsnIibTNaegrH5k1eibmyro6fzDiaiapvMNadBSzaJkdAicItdEC18UBGFrsu4xLtQ.jpg"
         ]
     },
     {
@@ -144,7 +162,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -153,7 +171,10 @@
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rIZPEYYatfygSicXLywgeKdus41vdf8Lj4ia9kMMkkQnSicnLH8VdZYLlQ.jpg",
-            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rIFl8T1vkFvmJyQCUDGa0K6p4bHLzSwibib8LW6ziaCdklI1dnWjLfd2iag.jpg"
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rIFl8T1vkFvmJyQCUDGa0K6p4bHLzSwibib8LW6ziaCdklI1dnWjLfd2iag.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rt3blUCNJBK73iaSc8GrMvfT1t47libK6wAhMjkyEdgZxKgsWXEejcW1A.png",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rweVZ8CwhhkqzaAcTkUxvm9vKQ277X7GeDd1zmgyHBlff7a2e0p49Bw.png",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rfWaVWQM4kyzVD5oW9M8qhuqd8qftvia5oDsSw07Mib4ia39Y6rOVBRpAQ.jpg"
         ]
     },
     {
@@ -164,7 +185,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -173,7 +194,10 @@
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rbpcYymibf2CrrGmfDSyK7EvQkKC40DFrJnAylpksfw1LFnJ2zcib2gdQ.jpg",
-            "images/cg7yBlugfew6KqKL7rTGlBwEKEV1bBntxlhQ9eRnEHS7sdmTYnKQfem4QJXuhQAbGib9JnZDZs6pG7mcgbQ3ViaQ.jpg"
+            "images/cg7yBlugfew6KqKL7rTGlBwEKEV1bBntxlhQ9eRnEHS7sdmTYnKQfem4QJXuhQAbGib9JnZDZs6pG7mcgbQ3ViaQ.jpg",
+            "images/cg7yBlugfew6KqKL7rTGlBwEKEV1bBntfcEyB9Nlgbc0PibsQiaQCictM7PWlT8lIIxZwBfk7A4ub4tic6sVib9E1Tg.jpg",
+            "images/cg7yBlugfew6KqKL7rTGlBwEKEV1bBnt3gjjbTDRhpv6NFjdyTYKicddQuty5x28srM2dnGIqa9ywjiaxhl5CzPA.jpg",
+            "images/cg7yBlugfew6KqKL7rTGlBwEKEV1bBntM0YINYGkhYpphyXW4qibzyTzia9A7A1N5C1c4VrfGMWHLJkx6S2DfPWQ.jpg"
         ]
     },
     {
@@ -184,14 +208,20 @@
             },
             {
                 "from":"human",
-                "value":""
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
                 "value":"上博东馆｜探索宫16日起试行面向学校团队预约开放\n上海博物馆东馆古代文明探索宫作为专为6至18岁青少年量身定制的沉浸式互动展教空间，凭借其独特的教育理念和丰富的互动体验，开馆至今迅速赢得了青少年儿童和亲子家庭的广泛赞誉与高度评价。为满足在校学生团体参观体验的需求，东馆古代文明探索宫将于2024年10月16日起面向学校试行团队预约开放模式，暂定每周三、周五（除寒暑假、法定节假日外）为探索宫团队开放日，团队开放日当天不再面向散客开放预约名额。预约方式团队日试行期间，东馆古代文明探索宫团队预约电话是唯一预约途径预约电话：021-20729967咨询时间：周一、周三、周四、周五10:30-17:30预约规则1、暂定每周三、周五（除寒暑假、法定节假日外）为探索宫团队开放日，团队开放日当天不再面向散客开放预约名额2、团队开放日分上午（10:00-13:00）、下午（14:00-17:00）两场3、面向6-18周岁的在校青少年团体和亲子团体，20人（青少年）成团，团体人数不超过250人/每场4、须提前7-14天电话预约，经后台审核，预约成功的团队将收到电话确认通知。每场名额有限，额满为止。5、须按要求提供：联系人本人身份证信息、认证公函（或介绍信）、团队人员名单与身份信息（加盖公章）6、预约团队需签署《学生团队参观安全责任书》7、未经允许，禁止任何社会组织、机构在探索宫开展导览、讲解、教学、研学等商业收费活动供稿 | 教育部 初审丨冯羽终审丨汤世芬"
             }
         ],
-        "images":[]
+        "images":[
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rbpcYymibf2CrrGmfDSyK7EvQkKC40DFrJnAylpksfw1LFnJ2zcib2gdQ.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1riaDuerMQE3Ticuibsx20CPJibIBmu4BIvQzvCictibasommegllMfvhMe05A.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rutu8KicoeibX2Es2IF0kicP2vPh9s2xVyft1vUAgia56kvNJPv7oJKZumQ.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rbpcYymibf2CrrGmfDSyK7EvQkKC40DFrJnAylpksfw1LFnJ2zcib2gdQ.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1riaDuerMQE3Ticuibsx20CPJibIBmu4BIvQzvCictibasommegllMfvhMe05A.jpg"
+        ]
     },
     {
         "conversations":[
@@ -201,7 +231,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -210,7 +240,10 @@
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rbpcYymibf2CrrGmfDSyK7EvQkKC40DFrJnAylpksfw1LFnJ2zcib2gdQ.jpg",
-            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rNJ6sW3Hej5ibKzOYSlavicVicA1U5OXL3yHdWk7odORqB1ZlEiaUmDHk3A.jpg"
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rNJ6sW3Hej5ibKzOYSlavicVicA1U5OXL3yHdWk7odORqB1ZlEiaUmDHk3A.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rq9PliaRlziaGiaOeuibTCf0NNtIEicZR6CJOicLS1iaIBHCkVBu6kNBQiazv7w.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1r1FKXXtQia7KnGXHD2RgXWcEUzsI4yJlNBwaW7T8GogT4sd8NBdq0DGw.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rtqCssgOm67HWicqf7znKsWB9X1vEc4kSCUVH6olFGkicLV0QR6aloQiaA.jpg"
         ]
     },
     {
@@ -221,7 +254,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -230,7 +263,10 @@
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rbpcYymibf2CrrGmfDSyK7EvQkKC40DFrJnAylpksfw1LFnJ2zcib2gdQ.jpg",
-            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rIicibVM8FTlLYNxwU60I0eiboWXzfoibTDyb3wHp6LjH6I4JicAsQDP7HDw.jpg"
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rIicibVM8FTlLYNxwU60I0eiboWXzfoibTDyb3wHp6LjH6I4JicAsQDP7HDw.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rP5R5zzQesEriaDWRaEzJrFBWbo3ZgK4TbuIJr0z0E53kxxcXQsxMF9Q.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1ribkXqlrbIHS0SbBCiagt9Kic0w7Wq81yRzZn95Y7CM7qiaPzwUmeL8eFcw.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1r5AV9ibsAxiaicSr5ofPibPSfhDquOoxs4DCp4hpDia8Pib8LF61CpRbwIozw.jpg"
         ]
     },
     {
@@ -241,16 +277,19 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
-                "value":"情暖重阳 相约上博丨十月银发活动邀您来（附预约链接）\n"
+                "value":"情暖重阳 相约上博丨十月银发活动邀您来（附预约链接）\n登高赏秋华，岁岁话重阳。为弘扬中华民族尊老敬老的传统美德，上海博物馆在深入挖掘馆藏资源及传统文化内涵的基础之上，持续丰富适老化服务与内容，传递关爱和尊重。时值金秋十月，由上海博物馆、上海植物园主办的“木石双清：江南石供与海派盆景展”正在东馆展出。千姿百态的不朽贞石与生机勃勃的不凋青松，无一不凝结着中国传统美学的精华，传递着人与自然的心有灵犀。以“木石双清”展览为灵感，上海博物馆面向老年观众发出银发活动邀请，一起鉴赏“师法自然，苍古入画”的海派盆景，一起体验“兰为王者香，芬馥清风里”的海上艺兰。让我们相约上博，共度情暖深秋。九九重阳节重阳银发活动一：海派盆景欣赏与体验海派盆景是一个以上海命名的盆景艺术流派，具有“师法自然，苍古入画”的海派风格。本次活动以现场展示、体验制作等方式，展示海派盆景造型手法与特点，让银发观众直观感受海派盆景魅力，增强对非遗文化的参与感、获得感与认同感。面向对象60-70周岁观众活动地点上海博物馆东馆4F创意工坊（四楼西北角）活动时间上午场：2024年10月18日（周五） 10:30-12:30下午场：2024年10月18日（周五） 14:30-16:30指导老师王娟毕业于中南林业科技大学园林植物与观赏园艺专业，获得盆景方向研究生学位，现任上海植物园盆景管理中心主任，高级工程师。擅长微型小品盆景制作、山野草制作、盆栽组合，植物主题环境艺术设计等。自参加工作以来始终致力于海派盆景的推广与传承工作。预约开始时间2024年10月12日 12:00参与方式预约请扫描下方二维码上午场 10:30-12:30下午场14:30-16:30重阳银发活动二：兰花品鉴与栽培体验作为我国传统名花，兰花以优美的叶姿，馥郁的芳香以及高洁、清雅的品格香染千古，闻名世界。上海兰花栽培技艺根植于江南兰文化，并形成了独树一帜的特色。本次活动通过现场介绍兰花分类、花型品鉴、文化起源与兰花栽培技艺等，结合实操体验，让银发观众近距离感受国兰文化。面向对象60-70周岁观众活动地点上海博物馆东馆4F创意工坊（四楼西北角）活动时间上午场：2024年10月23日（周三） 10:30-12:30下午场：2024年10月23日（周三） 14:30-16:30指导老师徐华花卉工高级技师。曾荣获1999-2000年度“上海市杰出技术能手”称号。2002年、2007年、2011年分别被聘为第三届、第四届、第五届上海市技师协会理事。预约开始时间2024年10月15日 12:00参与方式预约请扫描下方二维码上午场 10:30-12:30下午场14:30-16:30温馨提示1. 本活动仅限年龄60-70周岁观众报名预约，行动不便的老人须有家人陪同，签到时请出示有效身份证件。2.每种活动上午场、下午场内容一致，请勿重复预约。预约者请按时出席活动，缺席者将被限制预约后续免费教育活动。3.本次活动地点位于上海博物馆东馆（世纪大道1952号），目前东馆可免预约凭证入馆参观（数字馆、探索宫等仍需预约）。活动当天，预约者请凭有效身份证件自行入馆。更多信息请见东馆参观须知。4.请至少于当日活动开始前5分钟在上海博物馆东馆四楼西北角创意工坊门口签到，过时不候。地图指引供稿丨教育部初审丨石维尘终审丨汤世芬"
             }
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rbpcYymibf2CrrGmfDSyK7EvQkKC40DFrJnAylpksfw1LFnJ2zcib2gdQ.jpg",
-            "images/6uARtRtU48E0ib3hFlNhSM9cK3kl5PjcibX5qYfB6VpLd4qRRl8UqMDz2gYX22mqpPwmUbghPUUKXO44DVLUenibg.png"
+            "images/6uARtRtU48E0ib3hFlNhSM9cK3kl5PjcibX5qYfB6VpLd4qRRl8UqMDz2gYX22mqpPwmUbghPUUKXO44DVLUenibg.png",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1r9NeOXX2l6NWN25Y1RYv4f3l41GEGF4P1BuafibOqcPze7nfVjI02qOw.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rVx96TXz8zPickZmC6HNqlx7oxeZXF2rm1nXIEDSSYZUn2oBgGlbHIIw.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rZqqUw8llGNrH8IjGTUhuqrPQNCxy7BliaIqNcRQZILpxXc7uvbzib2jQ.jpg"
         ]
     },
     {
@@ -261,7 +300,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -270,7 +309,10 @@
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rpyXXYlA9JcRiavwfTvHR2LT609C1z0kvYo7u1qy2ia8mU1rPKOsH9WYA.jpg",
-            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1raBFXd3hTfia5bFrmicVoJYicicmqzOGJmXTCnvMR87ibVJLYPWNRLCue4LA.png"
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1raBFXd3hTfia5bFrmicVoJYicicmqzOGJmXTCnvMR87ibVJLYPWNRLCue4LA.png",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rrOKz5gVm1zEoYDpXW1YPJPeib4YPcSRWpEw6mAPXhRvxXCxDaRaTMGg.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rib9h0y3I8Wm2a9fvwd0Nz2BuN4aUlticsWaXOXaReTlEERX0XkmpGYIw.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1ribTrEZjYbZN8CkBdRATdjuu5EicEQmuIPgPdXMCiaqy5OibT2O8JGnNT5Q.png"
         ]
     },
     {
@@ -281,7 +323,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -290,7 +332,10 @@
         ],
         "images":[
             "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rRiaib42PYTt6uhXekqK2iaInPboHYsayibxWYbCjhRqicoAN1sgicUBha3ibw.jpg",
-            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rmQEbWBrgGUUz31WTLHZLPlgexmRRhvHRkgdMZburKclwjsick3JhpCQ.jpg"
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rmQEbWBrgGUUz31WTLHZLPlgexmRRhvHRkgdMZburKclwjsick3JhpCQ.jpg",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rYKsMzbfZW5r6ialaYUNcjcZFKkXqoIhDIEskcu2TKSd2jSxhJfYGrAQ.png",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1rAgSF3xjddKvNmaiaNQTAu2g6Bpic6ABibI47KXrSGJ4ynnZaqDKMhjQ9w.png",
+            "images/cg7yBlugfezmU04FoCBLSFz7oMeSkic1ruN7pYfcuIQ5y4bia0IFOlqwql8ULApoq57cjsXF1jbd4gtT83UHOdag.png"
         ]
     },
     {
@@ -301,14 +346,20 @@
             },
             {
                 "from":"human",
-                "value":""
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
                 "value":"公告丨四川美术学院美术馆预约小程序系统升级\n公  告为进一步优化美术馆数字化建设，美术馆将继续完善公众号预约小程序用户体验，并计划于2024年2024年10月19日至10月22日对“四川美院美术馆”公众号预约小程序进行系统升级，升级期间观众仅可预约当日入馆信息，但无法提前三日预约。观展观众可凭当日预约信息或有效身份证件入馆。新版“四川美院美术馆”公众号预约小程序预计将于10月22日（星期二）上线试运营，试运营预计时间为7个工作日，试运营期间如有使用不畅敬请谅解，可以联系美术馆服务热线或后台留言，美术馆将及时为您解决。特此公告四川美术学院美术馆2024年10月18日终    审：何桂彦复    审：李    芳初    审：邵笔柳编    辑：李呢喃识别二维码，关注我们入 馆 指 南友情提醒：请关注四川美院美术馆公众号参观须知，提前预约入馆观展。四川美术学院美术馆参观入口：美术馆东门（四川美术学院东2门旁）开放时间：9:00-17:00  16:30停止入馆（逢周一闭馆）参观费用：免  费地       址：重庆市高新区大学城南路56号官方网站：https://www.scfai.edu.cn/museum/服务热线：17784080200"
             }
         ],
-        "images":[]
+        "images":[
+            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulDF8aUChSYiahAVEHCb9TgS7kv6HibeNNqUNITarc5icJ0el66qBRBicKpA.jpg",
+            "images/swiamB723DVQRu9Kg7YbSoiaz2kXPXTsWuKJol3Vlp80hKT9h1eP1IBtjA8d9KPDCCc7CFqKrPgvZwHWTzCfePVA.gif",
+            "images/swiamB723DVSwiavvcmFyUVJbapeqfic9ts3qDIPZMJSIzKlWibj2b6ibAFs4fyYol98icM4EWQAJibjnBnbMdrOz6ezQ.png",
+            "images/swiamB723DVQRu9Kg7YbSoiaz2kXPXTsWuD7b0ib3KcUEmSTBo4LOeNiaKJ2UcWjibr7kdqyNW8KSgGhpiasLxwlqZdw.jpg",
+            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulJic2ibpp1zSria2RILhD9C8kOJrUbYumYy3XW2CARhibjn8enTB9X5ydNQ.jpg"
+        ]
     },
     {
         "conversations":[
@@ -318,7 +369,7 @@
             },
             {
                 "from":"human",
-                "value":"<image><image>"
+                "value":"<image><image><image><image><image>"
             },
             {
                 "from":"gpt",
@@ -327,7 +378,10 @@
         ],
         "images":[
             "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulfYz6RZuica0icnn51cSySAeNmSbSvk8gfV2WwOgfibFbapibBZgX1BuLow.jpg",
-            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulOLWp7RtsVlZTicib1d6Dt3QibtaGXAX9hibOq513oaklmrfh07C5xOUjBg.png"
+            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulOLWp7RtsVlZTicib1d6Dt3QibtaGXAX9hibOq513oaklmrfh07C5xOUjBg.png",
+            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulof3ZZnwFDbJm0ZtJdE71aLKGsTZNgaz5DDC7DFpZ85mbzgKia1U9fbw.png",
+            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulBcHSCc4w3l82nVDB7T7oic3AUrGlaoIlXcB65WprcuibFBDSo2Env67g.png",
+            "images/swiamB723DVQ1fiakH7oN9sgTwXesohNulQc3xice2eNubE86ibBiat4GlGf3mvLiaD12xoQtst7Q6wgm0VQEP676oKQ.png"
         ]
     }
 ]
